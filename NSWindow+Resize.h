@@ -3,7 +3,11 @@
 //  chromifier
 //
 //  Created by Evadne Wu on 5/6/10.
+<<<<<<< HEAD
 //  Copyright 2010 Iridia Productions. All rights reserved.
+=======
+//  Copyright 2010 monoceros. All rights reserved.
+>>>>>>> Adds scaffold
 //
 
 #import <Cocoa/Cocoa.h>
@@ -32,6 +36,9 @@ enum NSWindowResizing {
 
 - (void) resizeToWidth:(float)theWidth height:(float)theHeight;
 - (void) resizeToWidth:(float)theWidth height:(float)theHeight origin:(int)theOrigin;
+<<<<<<< HEAD
 - (void) resizeToWidth:(float)theWidth height:(float)theHeight origin:(int)theOrigin duration:(float)theDuration;
+=======
+>>>>>>> Adds scaffold
 
 @end

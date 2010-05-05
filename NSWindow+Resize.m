@@ -40,7 +40,7 @@
 
 	float currentWidth = self.frame.size.width;
 	float currentHeight = self.frame.size.height;
-	
+
 	float originX = self.frame.origin.x;
 	float originY = self.frame.origin.y;
 	
